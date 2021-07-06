@@ -1,16 +1,28 @@
 # Quiz Flutter
 
-A new Flutter project.
+O devquiz é um jogo de perguntas para avaliar os seus conhecimentos, desenvolvido na nlw 5
 
-## Getting Started
+### 🔧 Como Usar
 
-This project is a starting point for a Flutter application.
+```
+   - Clone esse repositório:
+   $ git clone https://github.com/MuriloBarreto/Quiz-Flutter.git
 
-A few resources to get you started if this is your first Flutter project:
+   - Entre no diretório:
+   $ cd Quiz-Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+   - Instale as dependências:
+   $ flutter pub get
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   - Inicie o app: 
+   $ flutter run
+  ```
+
+## 🛠️ Construído com
+
+* [Flutter](https://flutter.dev/docs)
+* [Dart](https://dart.dev/guides)
+
+---
+Feito com ❤️ por [Murilo Barreto](https://github.com/MuriloBarreto)
+
